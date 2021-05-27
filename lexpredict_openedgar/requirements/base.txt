@@ -52,10 +52,10 @@ urllib3==1.23
 
 
 # Your custom requirements go here
-lxml==4.1.1
-boto3==1.6.4
-botocore==1.9.4
-numpy==1.14.3
-pandas==0.22.0
+lxml==4
+boto3==1.6
+botocore==1.9
+numpy==1
+pandas
 tika==1.16
 https://github.com/LexPredict/lexpredict-lexnlp/archive/master.zip
